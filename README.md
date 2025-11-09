@@ -54,5 +54,5 @@ Enhanced terminal interface for Yandex Music with additional features and improv
 ---
 
 <p align="center">
-  <i>Always learning, always building</i>
+  <i>"Fuck Nvidia" c. Linus Torvalds</i>
 </p>
