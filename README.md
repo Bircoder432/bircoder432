@@ -31,8 +31,7 @@ A command-line utility for syncing translation keys in rust_i18n projects. Autom
 ### [dwrs](https://github.com/bircoder432/dwrs)
 Downloader utility written in Rust with parallel downloads and progress bars.
 
-### [yamusic-tui-enhanced](https://github.com/bircoder432/yamusic-tui-enhanced)
-Enhanced terminal interface for Yandex Music with additional features and improvements.
+
 
 ## 📫 Connect With Me
 
