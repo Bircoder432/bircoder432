@@ -46,7 +46,7 @@ Downloader utility written in Rust with parallel downloads and progress bars.
 
 ## 📊 Languages
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bircoder432&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bircoder432&layout=compact&theme=radical" />
 </p>
 
 ## 📊 Streak
