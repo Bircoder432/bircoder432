@@ -21,8 +21,8 @@
 
 ## 🚀 Featured Projects
 
-### [i18n-sync](https://github.com/bircoder432/i18n-sync)
-A command-line utility for syncing translation keys in rust_i18n projects. Automatically scans Rust code and updates YAML locale files.
+### [telecon](https://github.com/bircoder432/telecon)
+A utility for remote control your pc using telegram bot
 
 ### [dwrs](https://github.com/bircoder432/dwrs)
 Downloader utility written in Rust with parallel downloads and progress bars.
