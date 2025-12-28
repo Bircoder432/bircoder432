@@ -1,12 +1,8 @@
 # 👋 Hello, I'm Vadim!
 
-**Student at TCPST | Systems Programming Enthusiast | Arch Linux User**
+**Student at TCPST | Systems Programming Enthusiast**
 
-<p align="center">
-  <b>i use</b>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-<b>btw</b>
-</p>
+
 
 ## 🛠 Tech Stack
 
@@ -56,6 +52,4 @@ Downloader utility written in Rust with parallel downloads and progress bars.
 
 ---
 
-<p align="center">
-  <i>"Nvidia fuck you" c. Linus Torvalds</i>
-</p>
+
