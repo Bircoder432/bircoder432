@@ -21,11 +21,11 @@
 
 ## 🚀 Featured Projects
 
-### [telecon](https://github.com/bircoder432/telecon)
-A utility for remote control your pc using telegram bot
+### [telecon](https://github.com/bircoder432/osars)
+A rust library for OpenScheduleApi
 
-### [dwrs](https://github.com/bircoder432/dwrs)
-Downloader utility written in Rust with parallel downloads and progress bars.
+### [osatui](https://github.com/bircoder432/osatui)
+TUI client for OpenScheduleApi
 
 
 
