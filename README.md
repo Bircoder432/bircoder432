@@ -21,7 +21,7 @@
 
 ## 🚀 Featured Projects
 
-### [telecon](https://github.com/bircoder432/osars)
+### [osars](https://github.com/bircoder432/osars)
 A rust library for OpenScheduleApi
 
 ### [osatui](https://github.com/bircoder432/osatui)
